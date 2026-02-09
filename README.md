@@ -1,6 +1,5 @@
 # 🚀 SentiMapper – AI Powered Sentiment Analysis Dashboard
 
-![Project Banner](screenshots/dashboard.png)
 
 A complete **full stack sentiment analysis system** that allows users to analyze text reviews using AI, visualize results, and manage analysis history.
 
@@ -35,25 +34,25 @@ A complete **full stack sentiment analysis system** that allows users to analyze
 ## 🖼 Application Screenshots
 
 ### 1️⃣ Login Page
-![Login](C:\Users\LENOVO\OneDrive\Pictures\Screenshots\Screenshot 2026-01-30 184419.png)
+![Login](https://github.com/drsudeep/SentiMapper/blob/main/login%20page.png?raw=true)
 
 ### 2️⃣ Register Page
-![Register](screenshots/register.png)
+![Register](https://github.com/drsudeep/SentiMapper/blob/main/register%20page.png?raw=true)
 
 ### 3️⃣ Dashboard Overview
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](https://github.com/drsudeep/SentiMapper/blob/main/dashboard%20image.png?raw=true)
 
 ### 4️⃣ Upload & Analyze Text / CSV
-![Upload](screenshots/upload.png)
+![Upload](https://github.com/drsudeep/SentiMapper/blob/main/upload%20page.png?raw=true)
 
 ### 5️⃣ Analysis Results
-![Analysis](screenshots/analysis.png)
+![Analysis](https://github.com/drsudeep/SentiMapper/blob/main/analysis%20page.png?raw=true)
 
 ### 6️⃣ Top Keywords Visualization
-![Keywords](screenshots/keywords.png)
+![Keywords](https://github.com/drsudeep/SentiMapper/blob/main/keywords%20page.png?raw=true)
 
 ### 7️⃣ Trend Analysis
-![Trends](screenshots/trends.png)
+![Trends](https://github.com/drsudeep/SentiMapper/blob/main/trends%20page.png?raw=true)
 
 ---
 
