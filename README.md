@@ -158,16 +158,3 @@ text
 
 ---
 
-## 👨‍💻 Author
-
-**Sudeep D R**
-
-- MCA Student  
-- Full Stack Developer  
-- AI & Web Enthusiast  
-
----
-
-## 📜 License
-
-MIT License
