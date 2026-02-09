@@ -35,7 +35,7 @@ A complete **full stack sentiment analysis system** that allows users to analyze
 ## 🖼 Application Screenshots
 
 ### 1️⃣ Login Page
-![Login](screenshots/login.png)
+![Login](C:\Users\LENOVO\OneDrive\Pictures\Screenshots\Screenshot 2026-01-30 184419.png)
 
 ### 2️⃣ Register Page
 ![Register](screenshots/register.png)
